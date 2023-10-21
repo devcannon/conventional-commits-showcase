@@ -2,6 +2,13 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.3.0 - 2023-10-21
+#### Features
+- test 2 - (c167d41) - Christian Krenslehner
+- test 1 - (1d8f1ad) - Christian Krenslehner
+
+- - -
+
 ## v0.2.0 - 2023-10-21
 #### Features
 - note something about the version prefix - (e0fc485) - Christian Krenslehner
