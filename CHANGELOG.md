@@ -2,6 +2,19 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.1.0 - 2023-10-21
+#### Documentation
+- **(cog-showcase)** add some text to readme - (bdc57c2) - Christian Krenslehner
+- **(commands)** add command docs - (3ac4e5f) - Christian Krenslehner
+- update docs for version bump - (cd88e57) - Christian Krenslehner
+#### Features
+- **(cog-config)** change tag prefix - (c14b7dd) - Christian Krenslehner
+- **(cog-showcase)** showcase feature commit with cog - (a940b7a) - Christian Krenslehner
+#### Miscellaneous Chores
+- **(version)** 0.1.0 - (35860ea) - Christian Krenslehner
+
+- - -
+
 ## 0.1.0 - 2023-10-21
 #### Documentation
 - **(cog-showcase)** add some text to readme - (bdc57c2) - Christian Krenslehner
