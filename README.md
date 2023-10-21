@@ -14,4 +14,4 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 # Characteristics of version bump with cog
 - The version tag is created
 - The changelog is generated and stored to a file
-
+- The tag must not be changed otherwise auto bump does not work properly
