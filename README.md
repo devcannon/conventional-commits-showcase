@@ -6,3 +6,8 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 
 # Usage of `cog` command line tooling
 - Use `cog commit` to create a conventional commit
+- Use `cog check` to check if all commits are conventional commits
+- Use `cog bump --auto` to bump the version
+- Use `cog changelog` to generate a change log
+  - TODO: Compare with git-cliff
+
