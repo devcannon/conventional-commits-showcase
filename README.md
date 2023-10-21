@@ -15,3 +15,5 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 - The version tag is created
 - The changelog is generated and stored to a file
 - The tag must not be changed otherwise auto bump does not work properly
+
+Test 1
