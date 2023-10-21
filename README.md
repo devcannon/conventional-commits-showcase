@@ -11,3 +11,7 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 - Use `cog changelog` to generate a change log
   - TODO: Compare with git-cliff
 
+# Characteristics of version bump with cog
+- The version tag is created
+- The changelog is generated and stored to a file
+
