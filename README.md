@@ -17,3 +17,4 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 - The tag must not be changed otherwise auto bump does not work properly
 
 Test 1
+Test 2
