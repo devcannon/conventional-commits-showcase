@@ -22,3 +22,4 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 - You can use `cog bump --patch` to increase the patch version and so on
 
 TEST A BREAKING CHANGE
+TEST A BREAKING CHANGE AFTER 1.0.0
