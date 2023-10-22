@@ -20,3 +20,5 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
   - API non breaking (backward compatible) new features lead to a increase of minor
   - Backward compatible bugfixes lead to a increase of patch
 - You can use `cog bump --patch` to increase the patch version and so on
+
+TEST A BREAKING CHANGE
