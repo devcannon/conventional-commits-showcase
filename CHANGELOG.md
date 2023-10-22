@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v0.4.0 - 2023-10-22
+#### Features
+- introduced a breaking change - (bc76f7b) - Christian Krenslehner
+
+- - -
+
 ## v0.3.1 - 2023-10-22
 #### Miscellaneous Chores
 - add some info about semver - (e07ca51) - Christian Krenslehner
