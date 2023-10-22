@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.1.0 - 2023-10-22
+#### Features
+- fix only increaes patch - (bf03558) - Christian Krenslehner
+
+- - -
+
 ## v2.0.1 - 2023-10-22
 #### Bug Fixes
 - lets test how fix increases the version - (d9128ae) - Christian Krenslehner
