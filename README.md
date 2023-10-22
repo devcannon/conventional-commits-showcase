@@ -27,3 +27,5 @@ TEST A BREAKING CHANGE AFTER 1.0.0
 Breaking changes cause the `cog bump --auto` command to increase the minor version before we reached 1.0.0. Otherwise it will increase the major version. In Semver pre 1.0.0 is considered as unstable. Therefore breaking changes do not increase the major version. After reaching 1.0.0 the API is considered as stable and breaking changes cause a increase of major.
 
 Check diff of `fix` and `feat`
+
+`fix` leads to an increase of patch
