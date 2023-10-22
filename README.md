@@ -15,6 +15,8 @@ This repo showcases the benefits of [conventional commits](https://www.conventio
 - The version tag is created
 - The changelog is generated and stored to a file
 - The tag must not be changed otherwise auto bump does not work properly
-
-Test 1
-Test 2
+- Cog uses [Semantic Versioning](https://semver.org/) for the version tag. 
+  - API breaking features (not backward compatible) lead to a increase of major
+  - API non breaking (backward compatible) new features lead to a increase of minor
+  - Backward compatible bugfixes lead to a increase of patch
+- You can use `cog bump --patch` to increase the patch version and so on
