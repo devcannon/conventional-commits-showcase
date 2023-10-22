@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## v2.0.0 - 2023-10-22
+#### Features
+- another breaking change after 1.0.0 - (8e3ee9a) - Christian Krenslehner
+
+- - -
+
 ## v1.0.0 - 2023-10-22
 
 - - -
